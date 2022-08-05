@@ -1,2 +1,2 @@
-let ah_whitelist = exports;
+let ah_whitelist = {};
 ah_whitelist.whitelist = ["NotAvailable18"]
